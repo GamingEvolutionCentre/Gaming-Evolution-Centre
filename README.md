@@ -20,8 +20,4 @@ src="https://img.shields.io/twitch/status/gamingevolutioncentre?logo=twitchsx&st
 - [Dazza20006/Gaming-Evolution-Centre-Bot](https://github.com/Dazza20006/Gaming-Evolution-Centre-Bot) - My Discord Bot written in Python
 
 ### 📫 How to reach me:
-- Discord: <https://www.discord.gg/yWfKYRWDF6>
-- Instagram: <https://instagram.com/Dazza20006>
-- Twitter: <https://twitter.com/Dazza20006>
-- Twitch: <https://twitch.tv/gamingevolutioncentre>
-- Youtube: <https://youtube.com/c/Dazza20006>
+You can reach me on my socials at the top of the page.
