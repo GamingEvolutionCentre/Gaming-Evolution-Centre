@@ -2,7 +2,7 @@
   <a href="https://discord.gg/yWfKYRWDF6"><img src="https://img.shields.io/discord/798048338149900328?logo=discord"></a>
 <p align="center">  
   <a href="https://www.twitch.tv/gamingevolutioncentre" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/gamingevolutioncentre?logo=twitchsx&style=for-the-badge&color=0811b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/gamingevolutioncentre?logo=twitchsx&style=for-the-badge&color=6441a4&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Socials
 
