@@ -9,7 +9,7 @@ src="https://img.shields.io/twitch/status/gamingevolutioncentre?logo=twitchsx&st
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/GamingEvolutionCentre/GamingEvolutionCentre/main/github-metrics.svg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/GamingEvolutionCentre/GamingEvolutionCentre/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 - [GamingEvolutionCentre/README](https://github.com/GamingEvolutionCentre/GamingEvolutionCentre) - My Profile & Readme
