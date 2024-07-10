@@ -12,11 +12,11 @@ src="https://img.shields.io/twitch/status/gamingevolutioncentre?logo=twitchsx&st
 <p align="center"><img src="https://raw.githubusercontent.com/GamingEvolutionCentre/GamingEvolutionCentre/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-- [GamingEvolutionCentre/README](https://github.com/GamingEvolutionCentre/GamingEvolutionCentre) - My Profile & Readme
+- [GamingEvolutionCentre/README](https://github.com/GamingEvolutionCentre/Gaming-Evolution-Centre) - My Profile & Readme
 - [GamingEvolutionCentre/Gaming-Evolution-Centre-Bot](https://github.com/Dazza20006/Gaming-Evolution-Centre-Bot) - My Discord Bot written in Python
 
 ### 🌱 My latest projects
-- [GamingEvolutionCentre/README](https://github.com/GamingEvolutionCentre/GamingEvolutionCentre) - My Profile & Readme
+- [GamingEvolutionCentre/README](https://github.com/GamingEvolutionCentre/Gaming-Evolution-Centre) - My Profile & Readme
 - [GamingEvolutionCentre/Gaming-Evolution-Centre-Bot](https://github.com/GamingEvolutionCentre/Gaming-Evolution-Centre-Bot) - My Discord Bot written in Python
 
 ### 📫 How to reach me:
